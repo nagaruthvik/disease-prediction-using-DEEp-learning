@@ -1,0 +1,1 @@
+Developed an intelligent system that predicts possible diseases based on user-input symptoms using a feedforward neural network. Designed a user-friendly interface to collect symptom data and accurately suggest probable conditions. Focused on optimizing accuracy and responsiveness for real-time interaction.
